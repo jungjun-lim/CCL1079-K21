@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance">
+    <sys_nlu_utterance action="INSERT_OR_UPDATE">
+        <intent display_value="register a training">448378d92f860110759ad4a72799b616</intent>
+        <sys_class_name>sys_nlu_utterance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-04 06:49:25</sys_created_on>
+        <sys_id>1544f0d52f4a0110759ad4a72799b6db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>servicenow technical</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">9aba82168de26810f877b2b7f967512d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">9aba82168de26810f877b2b7f967512d</sys_scope>
+        <sys_update_name>sys_nlu_utterance_1544f0d52f4a0110759ad4a72799b6db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-04 06:49:25</sys_updated_on>
+        <utterance>servicenow technical</utterance>
+    </sys_nlu_utterance>
+</record_update>

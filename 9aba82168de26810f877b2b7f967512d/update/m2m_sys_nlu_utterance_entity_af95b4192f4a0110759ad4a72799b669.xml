@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE">
+        <annotation>[{"start":0,"end":18,"annotatedString":"{{phrase=\"servicenow training\"}}","cat":"ServiceNow"}]</annotation>
+        <entity display_value="training category">8f05f8952f4a0110759ad4a72799b64f</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-04 06:55:19</sys_created_on>
+        <sys_id>af95b4192f4a0110759ad4a72799b669</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>training category.servicenow training</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">9aba82168de26810f877b2b7f967512d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">9aba82168de26810f877b2b7f967512d</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_af95b4192f4a0110759ad4a72799b669</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-04 06:55:19</sys_updated_on>
+        <utterance display_value="servicenow training">1c54bc952f4a0110759ad4a72799b6ca</utterance>
+    </m2m_sys_nlu_utterance_entity>
+</record_update>

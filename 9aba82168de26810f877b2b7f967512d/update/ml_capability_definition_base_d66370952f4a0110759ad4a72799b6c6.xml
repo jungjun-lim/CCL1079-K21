@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_base">
+    <ml_capability_definition_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability display_value="NLU">b4ddf73453c73300d1dcddeeff7b1288</capability>
+        <current_solution_version>2</current_solution_version>
+        <dataset_language>en</dataset_language>
+        <fields/>
+        <filter/>
+        <request_source>api</request_source>
+        <solution_label>ml_x_snc_x_snc_training_global_026370952f4a0110759ad4a72799b6c5</solution_label>
+        <solution_name>ml_x_snc_x_snc_training_global_026370952f4a0110759ad4a72799b6c5</solution_name>
+        <solution_parameters/>
+        <solution_properties>{"authoringModel":{"intents":[{"name":"register a training","samples":[{"utterance":"register for management class"},{"utterance":"servicenow technical"},{"utterance":"servicenow training"},{"utterance":"sign up class for soft skills"},{"utterance":"register for presentation skills"},{"utterance":"manager skills required"},{"utterance":"servicenow skills"},{"utterance":"courses in management"},{"utterance":"training for public speaking"}],"entities":[{"name":"training category","categories":[{"category":"Presentation","samples":[{"entityAnnotation":"register for {{phrase\u003d\"presentation skills\"}}"},{"entityAnnotation":"training for {{phrase\u003d\"public speaking\"}}"},{"entityAnnotation":"sign up class for {{phrase\u003d\"soft skills\"}}"}]},{"category":"Management","samples":[{"entityAnnotation":"{{phrase\u003d\"manager skills\"}} required"},{"entityAnnotation":"register for {{phrase\u003d\"management class\"}}"},{"entityAnnotation":"courses in {{phrase\u003d\"management\"}}"}]},{"category":"ServiceNow","samples":[{"entityAnnotation":"{{phrase\u003d\"servicenow skills\"}}"},{"entityAnnotation":"{{phrase\u003d\"servicenow technical\"}}"},{"entityAnnotation":"{{phrase\u003d\"servicenow training\"}}"}]}]}]}],"schemaVersion":"NY-1","vocabulary":[{"pattern":"\\b(?i)register\\b","relatedTerms":["sign up","enroll","join","register for","sign up for"]},{"pattern":"\\b(?i)training\\b","relatedTerms":["course","class","coaching","practice"]}],"modelPurpose":"virtual_agent","entities":[],"confidenceThreshold":"0.6","lookupSources":[],"name":"ml_x_snc_x_snc_training_global_026370952f4a0110759ad4a72799b6c5","language":"en","version":"3.1.2-HYB"},"label":"ml_x_snc_x_snc_training_global_026370952f4a0110759ad4a72799b6c5","name":"ml_x_snc_x_snc_training_global_026370952f4a0110759ad4a72799b6c5","nluTrainingMode":"IntentClassifier","trainingMode":"sync"}</solution_properties>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ml_capability_definition_base</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-04 06:45:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d66370952f4a0110759ad4a72799b6c6</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>ml_x_snc_x_snc_training_global_026370952f4a0110759ad4a72799b6c5</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">9aba82168de26810f877b2b7f967512d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">9aba82168de26810f877b2b7f967512d</sys_scope>
+        <sys_update_name>ml_capability_definition_base_d66370952f4a0110759ad4a72799b6c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-04 07:00:19</sys_updated_on>
+        <table/>
+        <training_frequency>run_once</training_frequency>
+        <word_vector_corpus/>
+    </ml_capability_definition_base>
+</record_update>
